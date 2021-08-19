@@ -1,4 +1,4 @@
-# Medical Insurance claiming DApp (for ConsenSys)
+# Medical Insurance claiming DApp
 Problem statement:
 1) Patient logs in, uploads medical/lab test bills and submits it for insurance. Notifications are sent to hospital and lab admin.
 2) Hospital admin logs in, verifies and approves the bills. This approval is stored on the smart contract
